@@ -1,7 +1,3 @@
-//some test
-//some test
-//test
-//testing
 public class Main {
 
     public static void main(String[] args) {
