@@ -1,2 +1,2 @@
 # Codewars
-Some completed tasks from codawers.com
+Some completed tasks from codewars.com
