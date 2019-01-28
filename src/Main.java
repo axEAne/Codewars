@@ -1,5 +1,5 @@
 //some test
-//some test 2
+//some test
 public class Main {
 
     public static void main(String[] args) {
